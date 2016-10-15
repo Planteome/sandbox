@@ -12,10 +12,6 @@
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/BFO_0000066|http://purl.obolibrary.org/obo/RO_0000052" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000002" } ,
-        "label": { "type": "literal" , "value": "epigenetic trait" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000003" } ,
         "label": { "type": "literal" , "value": "alkali soil sensitivity" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000085" } ,
@@ -208,19 +204,11 @@
         "label": { "type": "literal" , "value": "hybrid incompatibility" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000037" } ,
-        "label": { "type": "literal" , "value": "male sterility extent" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000038" } ,
         "label": { "type": "literal" , "value": "fluorine sensitivity" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000085" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/PO_0000003|http://purl.obolibrary.org/obo/CHEBI_24061" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/BFO_0000066|http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000039" } ,
-        "label": { "type": "literal" , "value": "yield component" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000040" } ,
@@ -357,10 +345,6 @@
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000066" } ,
-        "label": { "type": "literal" , "value": "spot disease" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000067" } ,
         "label": { "type": "literal" , "value": "genic male sterility-thermo sensitive" }
       } ,
@@ -410,10 +394,6 @@
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000085" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/PO_0000003|http://purl.obolibrary.org/obo/EO_0007196" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/BFO_0000066|http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000076" } ,
-        "label": { "type": "literal" , "value": "inflorescence feature" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000077" } ,
@@ -485,10 +465,6 @@
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000090" } ,
         "label": { "type": "literal" , "value": "penetrated root thickness" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000091" } ,
-        "label": { "type": "literal" , "value": "leafhopper" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000092" } ,
@@ -871,10 +847,6 @@
         "label": { "type": "literal" , "value": "elongation ability" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000171" } ,
-        "label": { "type": "literal" , "value": "height trait" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000172" } ,
         "label": { "type": "literal" , "value": "jasmonic acid sensitivity" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000085" } ,
@@ -887,10 +859,6 @@
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000085" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/PO_0000003|http://purl.obolibrary.org/obo/CHEBI_18153" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/BFO_0000066|http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000174" } ,
-        "label": { "type": "literal" , "value": "maturity trait" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000175" } ,
@@ -959,10 +927,6 @@
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000014" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/PO_0009073" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000186" } ,
-        "label": { "type": "literal" , "value": "environmental stress related trait" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000187" } ,
@@ -1135,20 +1099,12 @@
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000216" } ,
-        "label": { "type": "literal" , "value": "grassy stunt virus disease" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000217" } ,
         "label": { "type": "literal" , "value": "genic male sterility-thermo-photoperiod sensitive" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000218" } ,
         "label": { "type": "literal" , "value": "pollen abortion type" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000219" } ,
-        "label": { "type": "literal" , "value": "stem morphology" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000220" } ,
@@ -1263,10 +1219,6 @@
         "label": { "type": "literal" , "value": "growth media composition sensitivity" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000239" } ,
-        "label": { "type": "literal" , "value": "plant genetic trait unknown" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000240" } ,
         "label": { "type": "literal" , "value": "sterile lemma length" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000122" } ,
@@ -1349,10 +1301,6 @@
         "label": { "type": "literal" , "value": "sheath blight disease resistance" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000256" } ,
-        "label": { "type": "literal" , "value": "genetic trait" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000257" } ,
         "label": { "type": "literal" , "value": "root branching" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000402" } ,
@@ -1430,10 +1378,6 @@
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000272" } ,
-        "label": { "type": "literal" , "value": "plant survivability" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000273" } ,
         "label": { "type": "literal" , "value": "armyworm resistance" }
       } ,
@@ -1483,10 +1427,6 @@
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000025" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/CHEBI_25212" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000282" } ,
-        "label": { "type": "literal" , "value": "enzymatic activity and protein content related trait" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000283" } ,
@@ -1605,10 +1545,6 @@
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000025" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/CHEBI_27325" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000302" } ,
-        "label": { "type": "literal" , "value": "smut disease" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000303" } ,
@@ -1758,10 +1694,6 @@
         "label": { "type": "literal" , "value": "sugar content" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000334" } ,
-        "label": { "type": "literal" , "value": "hybrid evaluation" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000335" } ,
         "label": { "type": "literal" , "value": "ligule shape" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000052" } ,
@@ -1793,10 +1725,6 @@
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000340" } ,
         "label": { "type": "literal" , "value": "total soluble sugar content" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000341" } ,
-        "label": { "type": "literal" , "value": "plant genetic trait" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000342" } ,
@@ -1887,10 +1815,6 @@
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000362" } ,
-        "label": { "type": "literal" , "value": "rot disease" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000364" } ,
         "label": { "type": "literal" , "value": "leaf collar color" } ,
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000014" } ,
@@ -1967,10 +1891,6 @@
         "label": { "type": "literal" , "value": "cool paste viscosity" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000380" } ,
-        "label": { "type": "literal" , "value": "planthopper" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000381" } ,
         "label": { "type": "literal" , "value": "cracked grain percentage" }
       } ,
@@ -2023,10 +1943,6 @@
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000392" } ,
         "label": { "type": "literal" , "value": "sterility or fertility trait" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000393" } ,
-        "label": { "type": "literal" , "value": "yield and yield component" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000394" } ,
@@ -2084,10 +2000,6 @@
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000406" } ,
         "label": { "type": "literal" , "value": "panicle threshability" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000407" } ,
-        "label": { "type": "literal" , "value": "hoppers" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000408" } ,
@@ -3026,10 +2938,6 @@
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000595" } ,
         "label": { "type": "literal" , "value": "1000-polished grain weight" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000596" } ,
-        "label": { "type": "literal" , "value": "plant volume (sensu Poaceae)" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000597" } ,
@@ -5378,10 +5286,6 @@
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
       } ,
       {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001036" } ,
-        "label": { "type": "literal" , "value": "stem senescence" }
-      } ,
-      {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001041" } ,
         "label": { "type": "literal" , "value": "root yield" }
       } ,
@@ -7407,10 +7311,6 @@
         "pato": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PATO_0000052" } ,
         "dp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/PO_0020142" } ,
         "dpProp": { "type": "literal" , "value": "http://purl.obolibrary.org/obo/RO_0000052" }
-      } ,
-      {
-        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000001" } ,
-        "label": { "type": "literal" , "value": "obsolete cotyledon size" }
       } ,
       {
         "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000002" } ,

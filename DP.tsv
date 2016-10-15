@@ -1,6 +1,5 @@
 toId	toName	pato	Class 1	Class 2	Class 3	prop 1	prop 2
 http://purl.obolibrary.org/obo/TO_0000001	carbon sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_27594		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000002	epigenetic trait			
 http://purl.obolibrary.org/obo/TO_0000003	alkali soil sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/EO_0007062		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000004	reversible male sterility			
 http://purl.obolibrary.org/obo/TO_0000006	calcium sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_22984		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
@@ -34,9 +33,7 @@ http://purl.obolibrary.org/obo/TO_0000033	iodine sensitivity	http://purl.obolibr
 http://purl.obolibrary.org/obo/TO_0000034	chromium sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_28073		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000035	incompatibility trait	http://purl.obolibrary.org/obo/PATO_0000345	http://purl.obolibrary.org/obo/PO_0000003			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000036	hybrid incompatibility			
-http://purl.obolibrary.org/obo/TO_0000037	male sterility extent			
 http://purl.obolibrary.org/obo/TO_0000038	fluorine sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_24061		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000039	yield component			
 http://purl.obolibrary.org/obo/TO_0000040	panicle length			
 http://purl.obolibrary.org/obo/TO_0000041	brown rice length			
 http://purl.obolibrary.org/obo/TO_0000042	f1-hybrid incompatibility			
@@ -63,7 +60,6 @@ http://purl.obolibrary.org/obo/TO_0000062	phenol reaction
 http://purl.obolibrary.org/obo/TO_0000063	mimic response			
 http://purl.obolibrary.org/obo/TO_0000064	plant embryo morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009009			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000065	root color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0009005			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000066	spot disease			
 http://purl.obolibrary.org/obo/TO_0000067	genic male sterility-thermo sensitive			
 http://purl.obolibrary.org/obo/TO_0000068	lodging incidence			
 http://purl.obolibrary.org/obo/TO_0000069	variegated leaf	http://purl.obolibrary.org/obo/PATO_0001533	http://purl.obolibrary.org/obo/PO_0025034			http://purl.obolibrary.org/obo/RO_0000052
@@ -73,7 +69,6 @@ http://purl.obolibrary.org/obo/TO_0000072	awn length	http://purl.obolibrary.org/
 http://purl.obolibrary.org/obo/TO_0000073	manganese sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_18291		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000074	blast disease resistance			
 http://purl.obolibrary.org/obo/TO_0000075	light sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/EO_0007196		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000076	inflorescence feature			
 http://purl.obolibrary.org/obo/TO_0000077	shoot system morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009006			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000078	root dry weight			
 http://purl.obolibrary.org/obo/TO_0000079	flower bract morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009034			http://purl.obolibrary.org/obo/RO_0000052
@@ -88,7 +83,6 @@ http://purl.obolibrary.org/obo/TO_0000087	aroma
 http://purl.obolibrary.org/obo/TO_0000088	rice yellow mottle virus resistance	http://purl.obolibrary.org/obo/PATO_0001046	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/EO_0007318		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000089	panicle type			
 http://purl.obolibrary.org/obo/TO_0000090	penetrated root thickness			
-http://purl.obolibrary.org/obo/TO_0000091	leafhopper			
 http://purl.obolibrary.org/obo/TO_0000092	deep root to shoot ratio			
 http://purl.obolibrary.org/obo/TO_0000093	root pulling force			
 http://purl.obolibrary.org/obo/TO_0000094	basal root thickness	http://purl.obolibrary.org/obo/PATO_0000915	http://purl.obolibrary.org/obo/PO_0025002			http://purl.obolibrary.org/obo/RO_0000052
@@ -166,10 +160,8 @@ http://purl.obolibrary.org/obo/TO_0000167	cytokinin sensitivity	http://purl.obol
 http://purl.obolibrary.org/obo/TO_0000168	abiotic stress trait			
 http://purl.obolibrary.org/obo/TO_0000169	chinsurah boro CMS			
 http://purl.obolibrary.org/obo/TO_0000170	elongation ability			
-http://purl.obolibrary.org/obo/TO_0000171	height trait			
 http://purl.obolibrary.org/obo/TO_0000172	jasmonic acid sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_18292		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000173	ethylene sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/CHEBI_18153		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000174	maturity trait			
 http://purl.obolibrary.org/obo/TO_0000175	rice bacterial blight disease resistance			
 http://purl.obolibrary.org/obo/TO_0000176	macronutrient sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/PLANTCHEBIROLE_03		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000177	2,4-dichlorophenoxyacetic acid sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/EO_0007180			http://purl.obolibrary.org/obo/RO_0000052
@@ -181,7 +173,6 @@ http://purl.obolibrary.org/obo/TO_0000182	insecticide sensitivity	http://purl.ob
 http://purl.obolibrary.org/obo/TO_0000183	other miscellaneous trait			
 http://purl.obolibrary.org/obo/TO_0000184	seed morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009010			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000185	stigma color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0009073			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000186	environmental stress related trait			
 http://purl.obolibrary.org/obo/TO_0000187	anther color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0009066			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000188	drought sensitivity	http://purl.obolibrary.org/obo/PATO_0000085	http://purl.obolibrary.org/obo/PO_0000003	http://purl.obolibrary.org/obo/EO_0007404		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000189	embryoless	http://purl.obolibrary.org/obo/PATO_0000462	http://purl.obolibrary.org/obo/PO_0009010	http://purl.obolibrary.org/obo/PO_0009009		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
@@ -211,10 +202,8 @@ http://purl.obolibrary.org/obo/TO_0000212	green leafhopper resistance
 http://purl.obolibrary.org/obo/TO_0000213	rice grassy stunt 1 and 2 virus resistance			
 http://purl.obolibrary.org/obo/TO_0000214	anther shape	http://purl.obolibrary.org/obo/PATO_0000052	http://purl.obolibrary.org/obo/PO_0009066			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000215	stamen morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009029			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000216	grassy stunt virus disease			
 http://purl.obolibrary.org/obo/TO_0000217	genic male sterility-thermo-photoperiod sensitive			
 http://purl.obolibrary.org/obo/TO_0000218	pollen abortion type			
-http://purl.obolibrary.org/obo/TO_0000219	stem morphology			
 http://purl.obolibrary.org/obo/TO_0000220	rice bug resistance			
 http://purl.obolibrary.org/obo/TO_0000221	glume color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0009039			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000222	head rice			
@@ -234,7 +223,6 @@ http://purl.obolibrary.org/obo/TO_0000235	liguleless	http://purl.obolibrary.org/
 http://purl.obolibrary.org/obo/TO_0000236	crop damage resistance			
 http://purl.obolibrary.org/obo/TO_0000237	water stress trait	http://purl.obolibrary.org/obo/TO_0000164	http://purl.obolibrary.org/obo/CHEBI_15377			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000238	growth media composition sensitivity			
-http://purl.obolibrary.org/obo/TO_0000239	plant genetic trait unknown			
 http://purl.obolibrary.org/obo/TO_0000240	sterile lemma length	http://purl.obolibrary.org/obo/PATO_0000122	http://purl.obolibrary.org/obo/PO_0009040			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000241	leaf number	http://purl.obolibrary.org/obo/PATO_0001555	http://purl.obolibrary.org/obo/PO_0009006	http://purl.obolibrary.org/obo/PO_0025034		http://purl.obolibrary.org/obo/BFO_0000066	http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000242	microbial damage resistance			
@@ -251,7 +239,6 @@ http://purl.obolibrary.org/obo/TO_0000252	non-mineral nutrient sensitivity
 http://purl.obolibrary.org/obo/TO_0000253	seed dormancy			
 http://purl.obolibrary.org/obo/TO_0000254	growth media pH sensitivity			
 http://purl.obolibrary.org/obo/TO_0000255	sheath blight disease resistance			
-http://purl.obolibrary.org/obo/TO_0000256	genetic trait			
 http://purl.obolibrary.org/obo/TO_0000257	root branching	http://purl.obolibrary.org/obo/PATO_0000402	http://purl.obolibrary.org/obo/PO_0009005			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000258	leaf thickness	http://purl.obolibrary.org/obo/PATO_0000915	http://purl.obolibrary.org/obo/PO_0025034			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000259	heat tolerance	http://purl.obolibrary.org/obo/PATO_0000515	http://purl.obolibrary.org/obo/EO_0007173			http://purl.obolibrary.org/obo/RO_0000052
@@ -266,7 +253,6 @@ http://purl.obolibrary.org/obo/TO_0000268	inflorescence shape	http://purl.obolib
 http://purl.obolibrary.org/obo/TO_0000269	100-seed weight			
 http://purl.obolibrary.org/obo/TO_0000270	inflorescence axis angle	http://purl.obolibrary.org/obo/PATO_0000133	http://purl.obolibrary.org/obo/PO_0020122			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000271	inflorescence length	http://purl.obolibrary.org/obo/PATO_0000122	http://purl.obolibrary.org/obo/PO_0009049			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000272	plant survivability			
 http://purl.obolibrary.org/obo/TO_0000273	armyworm resistance			
 http://purl.obolibrary.org/obo/TO_0000274	spikelet floret morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009082			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000275	perianth morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009058			http://purl.obolibrary.org/obo/RO_0000052
@@ -276,7 +262,6 @@ http://purl.obolibrary.org/obo/TO_0000278	root to shoot ratio	http://purl.obolib
 http://purl.obolibrary.org/obo/TO_0000279	root weight	http://purl.obolibrary.org/obo/PATO_0000128	http://purl.obolibrary.org/obo/PO_0009005			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000280	seedling vigor			
 http://purl.obolibrary.org/obo/TO_0000281	metabolite content trait	http://purl.obolibrary.org/obo/PATO_0000025	http://purl.obolibrary.org/obo/CHEBI_25212			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000282	enzymatic activity and protein content related trait			
 http://purl.obolibrary.org/obo/TO_0000283	biological process trait	http://purl.obolibrary.org/obo/PATO_0001236	http://purl.obolibrary.org/obo/GO_0008150			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000284	ADP glucose pyrophosphorylase activity trait	http://purl.obolibrary.org/obo/PATO_0000001	http://purl.obolibrary.org/obo/GO_0008878			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000285	nodal tillering			
@@ -296,7 +281,6 @@ http://purl.obolibrary.org/obo/TO_0000298	chlorophyll ratio	http://purl.obolibra
 http://purl.obolibrary.org/obo/TO_0000299	leaf lamina color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0020039			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000300	glucose content	http://purl.obolibrary.org/obo/PATO_0000025	http://purl.obolibrary.org/obo/CHEBI_17234			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000301	xanthophyll content	http://purl.obolibrary.org/obo/PATO_0000025	http://purl.obolibrary.org/obo/CHEBI_27325			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000302	smut disease			
 http://purl.obolibrary.org/obo/TO_0000303	cold tolerance	http://purl.obolibrary.org/obo/PATO_0000515	http://purl.obolibrary.org/obo/EO_0007174			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000304	seed thickness	http://purl.obolibrary.org/obo/PATO_0000915	http://purl.obolibrary.org/obo/PO_0009010			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000305	glutamine synthetase content			
@@ -327,14 +311,12 @@ http://purl.obolibrary.org/obo/TO_0000330	outcrossing potential
 http://purl.obolibrary.org/obo/TO_0000331	sucrose phosphate synthase activity trait	http://purl.obolibrary.org/obo/PATO_0000001	http://purl.obolibrary.org/obo/GO_0046524			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000332	rice whorl maggot resistance			
 http://purl.obolibrary.org/obo/TO_0000333	sugar content			
-http://purl.obolibrary.org/obo/TO_0000334	hybrid evaluation			
 http://purl.obolibrary.org/obo/TO_0000335	ligule shape	http://purl.obolibrary.org/obo/PATO_0000052	http://purl.obolibrary.org/obo/PO_0020105			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000336	total amylase activity trait			
 http://purl.obolibrary.org/obo/TO_0000337	kneeing ability			
 http://purl.obolibrary.org/obo/TO_0000338	beta-amylase activity trait	http://purl.obolibrary.org/obo/PATO_0000001	http://purl.obolibrary.org/obo/GO_0016161			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000339	stem thickness	http://purl.obolibrary.org/obo/PATO_0000915	http://purl.obolibrary.org/obo/PO_0009047			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000340	total soluble sugar content			
-http://purl.obolibrary.org/obo/TO_0000341	plant genetic trait			
 http://purl.obolibrary.org/obo/TO_0000342	panicle axis angle			
 http://purl.obolibrary.org/obo/TO_0000343	grass weed			
 http://purl.obolibrary.org/obo/TO_0000344	days to flowering trait			
@@ -354,7 +336,6 @@ http://purl.obolibrary.org/obo/TO_0000358	female sterility
 http://purl.obolibrary.org/obo/TO_0000359	female flowering			
 http://purl.obolibrary.org/obo/TO_0000360	leaf elongation rate			
 http://purl.obolibrary.org/obo/TO_0000361	stem morphology trait	http://purl.obolibrary.org/obo/PATO_0001241	http://purl.obolibrary.org/obo/PO_0009047			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0000362	rot disease			
 http://purl.obolibrary.org/obo/TO_0000364	leaf collar color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0006012			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000365	male flowering			
 http://purl.obolibrary.org/obo/TO_0000366	reproductive growth time			
@@ -371,7 +352,6 @@ http://purl.obolibrary.org/obo/TO_0000376	consistency viscosity
 http://purl.obolibrary.org/obo/TO_0000377	cooked grain elongation			
 http://purl.obolibrary.org/obo/TO_0000378	leaf scald disease resistance			
 http://purl.obolibrary.org/obo/TO_0000379	cool paste viscosity			
-http://purl.obolibrary.org/obo/TO_0000380	planthopper			
 http://purl.obolibrary.org/obo/TO_0000381	cracked grain percentage			
 http://purl.obolibrary.org/obo/TO_0000382	1000-seed weight			
 http://purl.obolibrary.org/obo/TO_0000383	grain belly percent white			
@@ -384,7 +364,6 @@ http://purl.obolibrary.org/obo/TO_0000389	nuclear mediated male sterility
 http://purl.obolibrary.org/obo/TO_0000390	grain core percent white			
 http://purl.obolibrary.org/obo/TO_0000391	seed size	http://purl.obolibrary.org/obo/PATO_0000117	http://purl.obolibrary.org/obo/PO_0009010			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_0000392	sterility or fertility trait			
-http://purl.obolibrary.org/obo/TO_0000393	yield and yield component			
 http://purl.obolibrary.org/obo/TO_0000394	drought related trait			
 http://purl.obolibrary.org/obo/TO_0000396	grain yield trait			
 http://purl.obolibrary.org/obo/TO_0000397	grain size			
@@ -397,7 +376,6 @@ http://purl.obolibrary.org/obo/TO_0000403	leaf-folder resistance
 http://purl.obolibrary.org/obo/TO_0000404	nodal rooting			
 http://purl.obolibrary.org/obo/TO_0000405	caseworm resistance			
 http://purl.obolibrary.org/obo/TO_0000406	panicle threshability			
-http://purl.obolibrary.org/obo/TO_0000407	hoppers			
 http://purl.obolibrary.org/obo/TO_0000408	hot paste viscosity			
 http://purl.obolibrary.org/obo/TO_0000409	peak viscosity			
 http://purl.obolibrary.org/obo/TO_0000410	polished rice protein content			
@@ -577,7 +555,6 @@ http://purl.obolibrary.org/obo/TO_0000592	1000-dehulled grain weight
 http://purl.obolibrary.org/obo/TO_0000593	polished grain weight			
 http://purl.obolibrary.org/obo/TO_0000594	100-polished grain weight			
 http://purl.obolibrary.org/obo/TO_0000595	1000-polished grain weight			
-http://purl.obolibrary.org/obo/TO_0000596	plant volume (sensu Poaceae)			
 http://purl.obolibrary.org/obo/TO_0000597	quality trait			
 http://purl.obolibrary.org/obo/TO_0000598	protein content			
 http://purl.obolibrary.org/obo/TO_0000599	enzyme activity trait	http://purl.obolibrary.org/obo/PATO_0000001	http://purl.obolibrary.org/obo/GO_0003824			http://purl.obolibrary.org/obo/RO_0000052
@@ -1004,7 +981,6 @@ http://purl.obolibrary.org/obo/TO_0001032	relative panicle number
 http://purl.obolibrary.org/obo/TO_0001033	relative spikelet number			
 http://purl.obolibrary.org/obo/TO_0001034	relative plant height			
 http://purl.obolibrary.org/obo/TO_0001035	stem width	http://purl.obolibrary.org/obo/PATO_0000921	http://purl.obolibrary.org/obo/PO_0009047			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_0001036	stem senescence			
 http://purl.obolibrary.org/obo/TO_0001041	root yield			
 http://purl.obolibrary.org/obo/TO_0001042	root quality trait			
 http://purl.obolibrary.org/obo/TO_0002600	floral organ size	http://purl.obolibrary.org/obo/PATO_0000117	http://purl.obolibrary.org/obo/PO_0009046	http://purl.obolibrary.org/obo/PO_0009008		http://purl.obolibrary.org/obo/BFO_0000050	http://purl.obolibrary.org/obo/RO_0000052
@@ -1385,7 +1361,6 @@ http://purl.obolibrary.org/obo/TO_0020121	arachnid damage resistance
 http://purl.obolibrary.org/obo/TO_0020122	two-spotted spider mite resistance			
 http://purl.obolibrary.org/obo/TO_0020123	ethanol yield from biomass			
 http://purl.obolibrary.org/obo/TO_1000000	stem internode bent	http://purl.obolibrary.org/obo/PATO_0000052	http://purl.obolibrary.org/obo/PO_0020142			http://purl.obolibrary.org/obo/RO_0000052
-http://purl.obolibrary.org/obo/TO_1000001	obsolete cotyledon size			
 http://purl.obolibrary.org/obo/TO_1000002	secondary xylem volumetric density	http://purl.obolibrary.org/obo/PATO_0001353	http://purl.obolibrary.org/obo/PO_0005848			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_1000003	shoot axis node color	http://purl.obolibrary.org/obo/PATO_0000014	http://purl.obolibrary.org/obo/PO_0005004			http://purl.obolibrary.org/obo/RO_0000052
 http://purl.obolibrary.org/obo/TO_1000004	infructescence position	http://purl.obolibrary.org/obo/PATO_0000140	http://purl.obolibrary.org/obo/PO_0006342			http://purl.obolibrary.org/obo/RO_0000052
