@@ -1,0 +1,6872 @@
+[
+	{
+		"id": "CO_341:0000057",
+		"name": "Sterility mosaic incidence",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000081",
+		"name": "Stem color",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000151",
+		"name": "Soil salinity stress susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000152",
+		"name": "Soil acidity stress susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000135",
+		"name": "Seedling vigour",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000078",
+		"name": "Seed base colour",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000126",
+		"name": "Seed yield",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000123",
+		"name": "Grain weight per plant",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000120",
+		"name": "Grain weight per plot",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000117",
+		"name": "Weight of 100 seeds",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000114",
+		"name": "Cooking quality of seed",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000108",
+		"name": "Seed milling fraction",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000105",
+		"name": "Seed protein content",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000075",
+		"name": "Seed germination",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000060",
+		"name": "Seed moisture content",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000042",
+		"name": "Seeds per plant",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000039",
+		"name": "Seeds per pod",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000030",
+		"name": "Seed weight",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000018",
+		"name": "Number of secondary branches",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000069",
+		"name": "Radicle length",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000012",
+		"name": "Number of productive branches",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000015",
+		"name": "Number of primary branches",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000153",
+		"name": "Pod wasp susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000154",
+		"name": "Pod fly susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000155",
+		"name": "Pod borers susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000141",
+		"name": "Pod length",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000102",
+		"name": "Pod size",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000099",
+		"name": "Pod wax",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000096",
+		"name": "Pod pubescence",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000093",
+		"name": "Pod color",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000036",
+		"name": "Pods per plant",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000033",
+		"name": "Pods per cluster",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000072",
+		"name": "Plumule length",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000147",
+		"name": "Plant Fertility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000138",
+		"name": "Days to first flower",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000132",
+		"name": "Plant vigour",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000129",
+		"name": "Plant senescence",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000063",
+		"name": "Harvest index",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000027",
+		"name": "Pod bearing length",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000021",
+		"name": "Plant height",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000009",
+		"name": "Days to 75 % maturity",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000006",
+		"name": "Days to 50 % flowering",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000003",
+		"name": "Maturity group",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000000",
+		"name": "Flowering pattern",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000156",
+		"name": "Phytophthora blight disease susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000157",
+		"name": "Nematodes susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000158",
+		"name": "Low temperature stress susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000159",
+		"name": "Leaf tier susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000087",
+		"name": "Leaf pubescence",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000084",
+		"name": "Leaf shape",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000066",
+		"name": "Leaf chlorophyll content",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000160",
+		"name": "High temperature stress susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000054",
+		"name": "Fusarium wilt Incidence",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000090",
+		"name": "Flower color",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000161",
+		"name": "Drought stress susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000111",
+		"name": "Cooking quality of dhal",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000144",
+		"name": "Number of clusters",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_341:0000162",
+		"name": "Alternaria blight disease susceptibility",
+		"group": 1,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000000",
+		"name": "Flowering time",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000003",
+		"name": "Bacterial Pustule",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000006",
+		"name": "Soybean rust",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000009",
+		"name": "Soybean Mosaic Virus",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000012",
+		"name": "Frogeye leafspot",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000015",
+		"name": "Nodulation",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000018",
+		"name": "Root knot nematode",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000021",
+		"name": "Maturity time",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000024",
+		"name": "Height of lowest pods",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000027",
+		"name": "Plant height",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000030",
+		"name": "Lodging",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000036",
+		"name": "Seed yield",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000039",
+		"name": "Fodder Yield",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000042",
+		"name": "Early shattering",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000248",
+		"name": "Pod shattering",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000048",
+		"name": "Seed oil content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000051",
+		"name": "Seed protein content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000054",
+		"name": "Reaction to Aphis glycines",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000057",
+		"name": "Plant branching",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000060",
+		"name": "Reproductive period",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000063",
+		"name": "Flower color",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000066",
+		"name": "Pod length",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000069",
+		"name": "Twining date",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000072",
+		"name": "Flooding tolerance",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000075",
+		"name": "Chlorosis",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000078",
+		"name": "Drought Tolerance",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000081",
+		"name": "Herbicide sensitivity",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000084",
+		"name": "Seed oil/protein content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000087",
+		"name": "Seed filling period",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000090",
+		"name": "Pod color",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000093",
+		"name": "Hilum color",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000096",
+		"name": "Seed quality",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000099",
+		"name": "Cold stress resistance",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000102",
+		"name": "Heat stress resistance",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000105",
+		"name": "Seed linoleic acid content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000108",
+		"name": "Seed linolenic acid content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000111",
+		"name": "Seed palmitic acid content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000114",
+		"name": "Seed oleic acid content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000117",
+		"name": "Seed methionine content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000120",
+		"name": "Seed stearic acid content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000123",
+		"name": "Stem termination type",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000126",
+		"name": "Beet armyworm",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000129",
+		"name": "Defoliation",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000132",
+		"name": "Late Shattering Score",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000135",
+		"name": "Pubescence Color",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000141",
+		"name": "Maturity group",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000144",
+		"name": "Seed coat mottling",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000147",
+		"name": "Seed lysine content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000150",
+		"name": "Leaf chlorophyll content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000153",
+		"name": "Seed isoflavone content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000156",
+		"name": "Germination time",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000159",
+		"name": "Flower number",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000162",
+		"name": "Canopy height",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000165",
+		"name": "First flower",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000168",
+		"name": "Nodule number",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000171",
+		"name": "Pod Maturity Date",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000174",
+		"name": "R8 Full Maturity",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000177",
+		"name": "Root nodule weight",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000180",
+		"name": "Primary root shape",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000183",
+		"name": "Primary root size",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000186",
+		"name": "Leaf number",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000189",
+		"name": "Main stem diameter",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000192",
+		"name": "Fiber content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000195",
+		"name": "Seed moisture content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000198",
+		"name": "Seed Sucrose content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000201",
+		"name": "Downy mildew",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000204",
+		"name": "Soybean anthracnose",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000207",
+		"name": "Lateral root size",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000210",
+		"name": "Lateral root shape",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000213",
+		"name": "Seed starchyose content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000216",
+		"name": "Seed Raffinose content",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000219",
+		"name": "Leaflet shape",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000222",
+		"name": "Pubescence form",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000346",
+		"name": "Pubescence form on leaflet",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000225",
+		"name": "Pubescence tip type",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000228",
+		"name": "Flower form",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000231",
+		"name": "Pubescence presence",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000236",
+		"name": "Pod number",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000237",
+		"name": "Number of seeds",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000238",
+		"name": "Seed weight",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_336:0000239",
+		"name": "Cercospora Leaf spot",
+		"group": 2,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000214",
+		"name": "Aflatoxin content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000190",
+		"name": "Aleurone color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000651",
+		"name": "Anther Anthocyanin coloration",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000001",
+		"name": "Anthesis silking interval",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000030",
+		"name": "Anthesis time",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000058",
+		"name": "Anthracnose leaf blight incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000128",
+		"name": "Aphid damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000154",
+		"name": "Army worm damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000520",
+		"name": "Aspergillus ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000072",
+		"name": "Aspergillus flavus ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000051",
+		"name": "Bacterial leaf stripe severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000052",
+		"name": "Bacterial stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000084",
+		"name": "Banded leaf and sheath blight severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000060",
+		"name": "Black bundle incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000086",
+		"name": "Brown spot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000078",
+		"name": "Brown stripe downy mildew incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000808",
+		"name": "Busseola damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000152",
+		"name": "Busseola incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000142",
+		"name": "Canopy temperature",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000062",
+		"name": "Charcoal rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000155",
+		"name": "Chilo damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000003",
+		"name": "Chlorophyll content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001082",
+		"name": "Cob glumes Anthocyanin coloration",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001085",
+		"name": "Cob glumes color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001097",
+		"name": "Cob sucrose content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000085",
+		"name": "Common rust severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000556",
+		"name": "Common smut incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000082",
+		"name": "Common smut severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000049",
+		"name": "Corn stunt incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000488",
+		"name": "Corn stunt spiroplasma severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000081",
+		"name": "Crazy top downy mildew incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000089",
+		"name": "Curvularia leaf spot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000156",
+		"name": "Diabrotica damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000157",
+		"name": "Diatraea damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000075",
+		"name": "Downy mildew severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000018",
+		"name": "Ear aspect",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000165",
+		"name": "Ear damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000170",
+		"name": "Ear diameter",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000017",
+		"name": "Ear height",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000105",
+		"name": "Ear leaf chlorophyll content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000019",
+		"name": "Ear leaf length",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000112",
+		"name": "Ear leaf weight",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000015",
+		"name": "Ear length",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000021",
+		"name": "Ear number",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000020",
+		"name": "Ear position",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000068",
+		"name": "Ear rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000664",
+		"name": "Ear shape",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000524",
+		"name": "Ear weight",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001090",
+		"name": "Ear width",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000685",
+		"name": "Earworm damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000153",
+		"name": "Earworm incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000186",
+		"name": "Endosperm color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000041",
+		"name": "Endosperm hardness",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000109",
+		"name": "Endosperm Lysine content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000123",
+		"name": "Endosperm protein content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000106",
+		"name": "Endosperm Tryptophan content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000046",
+		"name": "Fungal disease presence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000069",
+		"name": "Fusarium ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000070",
+		"name": "Fusarium graminearum ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000065",
+		"name": "Fusarium graminearum stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000071",
+		"name": "Fusarium moniliforme ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000064",
+		"name": "Fusarium moniliforme stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000841",
+		"name": "Fusarium moniliforme stalk rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000063",
+		"name": "Fusarium stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000113",
+		"name": "Grain abscisic acid content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000137",
+		"name": "Grain ash content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000146",
+		"name": "Grain color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000115",
+		"name": "Grain glucose content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000110",
+		"name": "Grain iron content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000172",
+		"name": "Grain length",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000108",
+		"name": "Grain Lysine content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000033",
+		"name": "Grain moisture",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000010",
+		"name": "Grain number",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000533",
+		"name": "Grain oil content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001102",
+		"name": "Grain proline content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000122",
+		"name": "Grain protein content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000125",
+		"name": "Grain provitaminA content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000166",
+		"name": "Grain row arrangement",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000167",
+		"name": "Grain row number",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000126",
+		"name": "Grain starch content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000120",
+		"name": "Grain sucrose content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000114",
+		"name": "Grain sugar content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001005",
+		"name": "Grain test weight",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000039",
+		"name": "Grain texture",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000184",
+		"name": "Grain thickness",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000103",
+		"name": "Grain Tryptophan content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000168",
+		"name": "Grain type",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000178",
+		"name": "Grain upper surface shape",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000990",
+		"name": "Grain viability",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000133",
+		"name": "Grain weight",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000131",
+		"name": "Grain weight loss by maize weevil",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000175",
+		"name": "Grain width",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000005",
+		"name": "Grain yield",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000111",
+		"name": "Grain zinc content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000088",
+		"name": "Gray leaf spot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000083",
+		"name": "Head smut incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000852",
+		"name": "Head smut severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000079",
+		"name": "Java downy mildew incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000127",
+		"name": "Large grain borer damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000161",
+		"name": "Late wilt incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001106",
+		"name": "Leaf abscisic acid content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000772",
+		"name": "Leaf ash content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000537",
+		"name": "Leaf color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000538",
+		"name": "Leaf erectness",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000025",
+		"name": "Leaf length",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001108",
+		"name": "Leaf proline content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000160",
+		"name": "Leaf rolling severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000978",
+		"name": "Leaf sucrose content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000026",
+		"name": "Leaf width",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000857",
+		"name": "Lodging incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000053",
+		"name": "Maize bushy stunt severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000099",
+		"name": "Maize dwarf mosaic virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001053",
+		"name": "Maize dwarf mosaic virus severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000182",
+		"name": "Maize lethal necrosis severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000095",
+		"name": "Maize rayado fino virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000097",
+		"name": "Maize rough dwarf virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000100",
+		"name": "Maize streak virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000878",
+		"name": "Maize streak virus severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000098",
+		"name": "Maize stripe virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000129",
+		"name": "Maize weevil incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000130",
+		"name": "Maize weevil number in Grain",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000094",
+		"name": "Mal de rio cuarto virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000032",
+		"name": "Maturity time",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000057",
+		"name": "Maydis leaf blight severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000074",
+		"name": "Penicillium ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000192",
+		"name": "Pericarp color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000090",
+		"name": "Phaeosphaeria leaf spot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000076",
+		"name": "Philippine downy mildew incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000994",
+		"name": "Plant height",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000007",
+		"name": "Plant height to insertion of first tassel branch",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000997",
+		"name": "Plant height to ligule of the flag leaf",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000546",
+		"name": "Plant vigor",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000055",
+		"name": "Polysora rust severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000067",
+		"name": "Pythium stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001112",
+		"name": "Root abscisic acid content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000102",
+		"name": "Root capacitance",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001114",
+		"name": "Root glucose content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000034",
+		"name": "Root lodging incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000119",
+		"name": "Root proline content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001116",
+		"name": "Root sucrose content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000054",
+		"name": "Rust severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000093",
+		"name": "Seedling disease incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0001017",
+		"name": "Seedling vigor",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000012",
+		"name": "Senescence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000163",
+		"name": "Sheath pubescence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000925",
+		"name": "Shelled cob weight",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000539",
+		"name": "Silk Anthocyanin coloration",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000013",
+		"name": "Silk length",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000031",
+		"name": "Silking time",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000080",
+		"name": "Sorghum downy mildew incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000829",
+		"name": "Sorghum downy mildew severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000061",
+		"name": "Stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000540",
+		"name": "Standard germination",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000159",
+		"name": "Stem borer damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000162",
+		"name": "Stem color",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000035",
+		"name": "Stem lodging incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000073",
+		"name": "Stenocarpella ear rot severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000066",
+		"name": "Stenocarpella stalk rot incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000050",
+		"name": "Stewarts wilt incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000134",
+		"name": "Stomatal conductance",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000158",
+		"name": "Striga damage",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000938",
+		"name": "Striga plant number",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000077",
+		"name": "Sugarcane downy mildew incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000101",
+		"name": "Sugarcane mosaic virus incidence",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000091",
+		"name": "Tar spot complex severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000541",
+		"name": "Tassel Anthocyanin coloration",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000188",
+		"name": "Tassel blasting severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000028",
+		"name": "Tassel branch number",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000027",
+		"name": "Tassel branch weight",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000164",
+		"name": "Tassel branching type",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000542",
+		"name": "Tassel density",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000543",
+		"name": "Tassel exertion",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000947",
+		"name": "Tassel glumes Anthocyanin coloration",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000944",
+		"name": "Tassel glumes base Anthocyanin coloration",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000544",
+		"name": "Tassel opening",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000038",
+		"name": "Tassel size",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000059",
+		"name": "Tillering",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000056",
+		"name": "Tropical rust severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000092",
+		"name": "Turcicum leaf blight severity",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000171",
+		"name": "Uppermost ear shape",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_322:0000024",
+		"name": "Young leaf chlorophyll content",
+		"group": 3,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000078",
+		"name": "Acid soil tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000079",
+		"name": "Aluminum tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000678",
+		"name": "Boron tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000080",
+		"name": "Cold tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000131",
+		"name": "Drought tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000127",
+		"name": "Frost damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000126",
+		"name": "Hail damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000176",
+		"name": "Heat tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000679",
+		"name": "Herbicide damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000132",
+		"name": "Salinity tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000081",
+		"name": "Sprouting tolerance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000128",
+		"name": "Waterlogging damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000164",
+		"name": "Winter kill damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000005",
+		"name": "Aboveground biomass at maturity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000162",
+		"name": "Agronomic score",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000014",
+		"name": "Crop ground cover",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000407",
+		"name": "Crop growth rate",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000012",
+		"name": "Grain moisture content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000017",
+		"name": "Grain number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000038",
+		"name": "Grain number per spike",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000041",
+		"name": "Grain number per spikelet",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000039",
+		"name": "Grain plumpness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000642",
+		"name": "Grain retention",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000643",
+		"name": "Grain screenings",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000025",
+		"name": "Grain weight",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000013",
+		"name": "Grain yield",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000645",
+		"name": "Grain yield factor",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000123",
+		"name": "Harvest index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000644",
+		"name": "Infertile tiller number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000393",
+		"name": "In-season aboveground biomass",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000184",
+		"name": "Leaf area index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000167",
+		"name": "Lodging incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000050",
+		"name": "Peduncle neck break",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000009",
+		"name": "Plant early vigour",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000015",
+		"name": "Plant growth habit",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000020",
+		"name": "Plant height",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000680",
+		"name": "Plant vigour",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000166",
+		"name": "Spike number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000057",
+		"name": "Spike shattering",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000058",
+		"name": "Spikelet number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000165",
+		"name": "Sterility index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000190",
+		"name": "Tiller number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000189",
+		"name": "Tillering capacity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000082",
+		"name": "Alternaria leaf blight plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000084",
+		"name": "Ant damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000085",
+		"name": "Aphid damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000086",
+		"name": "Armyworm damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000931",
+		"name": "Bacterial leaf blight incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000933",
+		"name": "Barley Helminthosporium leaf stripe incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000692",
+		"name": "Barley leaf rust coefficient of infection",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000935",
+		"name": "Barley leaf rust incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000647",
+		"name": "Barley leaf rust severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000936",
+		"name": "Barley scald incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000710",
+		"name": "Barley scald severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000095",
+		"name": "Barley stripe mosaic incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000096",
+		"name": "Barley yellow dwarf incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000087",
+		"name": "Bird damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000097",
+		"name": "Black point incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000281",
+		"name": "Common bunt spike incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000649",
+		"name": "Common root rot incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000111",
+		"name": "Cyst nematode damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000101",
+		"name": "Dwarf bunt incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000102",
+		"name": "Eyespot plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000103",
+		"name": "Flag smut plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000655",
+		"name": "Foliar disease development",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000924",
+		"name": "Fusarium graminearum incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000651",
+		"name": "Fusarium head blight AUDPC",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000652",
+		"name": "Fusarium head blight DON content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000927",
+		"name": "Fusarium head blight grain incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000928",
+		"name": "Fusarium head blight spike incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000929",
+		"name": "Fusarium head blight spike response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000654",
+		"name": "Fusarium head blight spike weight",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000711",
+		"name": "Fusarium head blight spikelet incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000930",
+		"name": "Fusarium leaf blotch incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000653",
+		"name": "Fusarium leaf blotch severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000168",
+		"name": "Fusarium wilt incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000922",
+		"name": "Helminthosporium species incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000923",
+		"name": "Helminthosporium species legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000686",
+		"name": "Helminthosporium species severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000088",
+		"name": "Hessian fly damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000089",
+		"name": "Insect damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000106",
+		"name": "Karnal bunt incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000897",
+		"name": "Leaf rust coefficient of infection",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000898",
+		"name": "Leaf rust incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000899",
+		"name": "Leaf rust legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000687",
+		"name": "Leaf rust notes",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000178",
+		"name": "Leaf rust plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000901",
+		"name": "Leaf rust seedling response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000902",
+		"name": "Leaf rust severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000921",
+		"name": "Loose smut incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000170",
+		"name": "Net blotch incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000406",
+		"name": "Net blotch severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000937",
+		"name": "Powdery mildew incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000938",
+		"name": "Powdery mildew legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000939",
+		"name": "Powdery mildew severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000112",
+		"name": "Pratylenchus neglectus damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000113",
+		"name": "Pratylenchus thornei damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000681",
+		"name": "Rhizoctonia root rot incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000090",
+		"name": "Rodent damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000682",
+		"name": "Root disease development",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000161",
+		"name": "Root lesion nematode damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000091",
+		"name": "Russian wheat aphid damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000092",
+		"name": "Sawfly damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000110",
+		"name": "Seed gall nematode damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000914",
+		"name": "Septoria blotch incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000916",
+		"name": "Septoria blotch legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000715",
+		"name": "Septoria blotch plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000714",
+		"name": "Septoria blotch severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000917",
+		"name": "Septoria nodorum blotch incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000918",
+		"name": "Septoria nodorum blotch legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000717",
+		"name": "Septoria nodorum blotch severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000919",
+		"name": "Septoria tritici blotch incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000920",
+		"name": "Septoria tritici blotch legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000719",
+		"name": "Septoria tritici blotch plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000718",
+		"name": "Septoria tritici blotch severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000683",
+		"name": "Sharp eyespot incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000093",
+		"name": "Snail damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000173",
+		"name": "Soil borne mosaic incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000115",
+		"name": "Southern blight plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000684",
+		"name": "Spike disease development",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000912",
+		"name": "Spot blotch incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000913",
+		"name": "Spot blotch legacy",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000723",
+		"name": "Spot blotch severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000688",
+		"name": "Stem rust coefficient of infection",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000903",
+		"name": "Stem rust notes",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000177",
+		"name": "Stem rust plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000904",
+		"name": "Stem rust seedling response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000905",
+		"name": "Stem rust severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000689",
+		"name": "Stripe rust coefficient of infection",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000906",
+		"name": "Stripe rust incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000907",
+		"name": "Stripe rust notes",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000179",
+		"name": "Stripe rust plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000908",
+		"name": "Stripe rust severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000909",
+		"name": "Stripe rust spike severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000094",
+		"name": "Suni pest damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000119",
+		"name": "Take all incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000910",
+		"name": "Tan spot incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000345",
+		"name": "Tan spot plant response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000911",
+		"name": "Tan spot seedling response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000650",
+		"name": "Tan spot severity",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000099",
+		"name": "Tilletia laevis bunt incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000100",
+		"name": "Tilletia tritici bunt incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000685",
+		"name": "Worm damage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000026",
+		"name": "Awn length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000029",
+		"name": "Coleoptile length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000141",
+		"name": "Flag leaf area",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000031",
+		"name": "Glume color",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000035",
+		"name": "Glume glaucousness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000032",
+		"name": "Glume length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000033",
+		"name": "Glume pubescence density",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000034",
+		"name": "Glume pubescence length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000036",
+		"name": "Glume width",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000656",
+		"name": "Grain appearance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000040",
+		"name": "Grain size",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000048",
+		"name": "Leaf glaucousness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000044",
+		"name": "Leaf length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000045",
+		"name": "Leaf pubescence density",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000046",
+		"name": "Leaf pubescence length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000143",
+		"name": "Leaf stomatal frequency",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000142",
+		"name": "Leaf stomatal size",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000047",
+		"name": "Leaf thickness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000175",
+		"name": "Leaf tip necrosis incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000049",
+		"name": "Leaf width",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000051",
+		"name": "Node number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000054",
+		"name": "Peduncle glaucousness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000052",
+		"name": "Peduncle length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000053",
+		"name": "Peduncle pubescence density",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000027",
+		"name": "Spike awnedness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000055",
+		"name": "Spike density",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000056",
+		"name": "Spike length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000659",
+		"name": "Spike threshability",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000062",
+		"name": "Stem diameter",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000060",
+		"name": "Stem length",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000061",
+		"name": "Stem solidness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000657",
+		"name": "Stem strength",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000658",
+		"name": "Stem wall thickness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000121",
+		"name": "Anthesis time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000191",
+		"name": "Booting time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000182",
+		"name": "Double ridge time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000021",
+		"name": "Emergence time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000183",
+		"name": "First node detectable time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000664",
+		"name": "Grain filling period",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000665",
+		"name": "Growth class",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000016",
+		"name": "Growth stage",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000007",
+		"name": "Heading time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000022",
+		"name": "Maturity time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000670",
+		"name": "Plant vegetative period",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000668",
+		"name": "Reproductive period",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000940",
+		"name": "Terminal spikelet time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000301",
+		"name": "Canopy normalized difference vegetation index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000197",
+		"name": "Canopy normalized pheophytinization index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000198",
+		"name": "Canopy normalized water index 1",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000199",
+		"name": "Canopy normalized water index 2",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000200",
+		"name": "Canopy normalized water index 3",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000201",
+		"name": "Canopy normalized water index 4",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000202",
+		"name": "Canopy photochemical reflectance index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000203",
+		"name": "Canopy ratio analysis of reflectance spectra carotenoid",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000204",
+		"name": "Canopy ratio analysis of reflectance spectra chlorophyll a",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000205",
+		"name": "Canopy ratio analysis of reflectance spectra chlorophyll b",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000206",
+		"name": "Canopy simple ratio",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000059",
+		"name": "Canopy stay green",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000208",
+		"name": "Canopy structural independent pigment index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000193",
+		"name": "Canopy temperature",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000006",
+		"name": "Canopy temperature depression",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000209",
+		"name": "Canopy water index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000194",
+		"name": "Flag leaf senescence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000195",
+		"name": "Grain carbon isotope discrimination",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000011",
+		"name": "Grain germination",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000196",
+		"name": "Leaf carbon isotope discrimination",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000028",
+		"name": "Leaf chlorophyll content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000018",
+		"name": "Leaf stomatal conductance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000063",
+		"name": "Leaf stomatal resistance",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000672",
+		"name": "Plant photoperiod response",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000207",
+		"name": "Stem water soluble carbohydrate",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000065",
+		"name": "Bread crumb structure",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000124",
+		"name": "Bread loaf volume",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000064",
+		"name": "Cookie spread factor",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000210",
+		"name": "Dough alveograph extensibility index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000395",
+		"name": "Dough alveograph P/G",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000145",
+		"name": "Dough alveograph P/L",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000211",
+		"name": "Dough alveograph value G",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000212",
+		"name": "Dough alveograph value L",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000213",
+		"name": "Dough alveograph value P",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000144",
+		"name": "Dough alveograph value W",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000149",
+		"name": "Dough Mixograph mixing time",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000225",
+		"name": "Dough mixograph torque",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000228",
+		"name": "Dough mixograph type",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000214",
+		"name": "Flour color",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000066",
+		"name": "Flour falling number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000069",
+		"name": "Flour gluten content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000070",
+		"name": "Flour gluten type",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000067",
+		"name": "Flour protein content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000146",
+		"name": "Flour SDS sedimentation",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000160",
+		"name": "Flour SDS sedimentation index",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000673",
+		"name": "Flour yellowness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000068",
+		"name": "Flour yield",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000152",
+		"name": "Glutenin Glu-A1 composition",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000155",
+		"name": "Glutenin Glu-A3 composition",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000153",
+		"name": "Glutenin Glu-B1 composition",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000156",
+		"name": "Glutenin Glu-B3 composition",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000154",
+		"name": "Glutenin Glu-D1 composition",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000157",
+		"name": "Glutenin Glu-D3 composition",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000037",
+		"name": "Grain color",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000221",
+		"name": "Grain end use type",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000072",
+		"name": "Grain hardness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000222",
+		"name": "Grain Iron content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000223",
+		"name": "Grain Phosphorous content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000073",
+		"name": "Grain protein content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000159",
+		"name": "Grain test weight",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000042",
+		"name": "Grain vitreousness",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000224",
+		"name": "Grain Zinc content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000174",
+		"name": "Grain yellow berry incidence",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000075",
+		"name": "Semolina color",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000074",
+		"name": "Semolina protein content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000674",
+		"name": "Semolina yellow pigment content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000158",
+		"name": "Translocation 1BL/1RS",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000227",
+		"name": "Whole meal flour color",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000071",
+		"name": "Whole meal flour falling number",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000147",
+		"name": "Whole meal flour SDS sedimentation",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_321:0000677",
+		"name": "Whole meal flour yellow pigment content",
+		"group": 4,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000034",
+		"name": "Abaxial Leaf Vein Pigmentation",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000439",
+		"name": "Alcidodes sp. damage",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000428",
+		"name": "Amylose content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000433",
+		"name": "Anthocyanin content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000429",
+		"name": "Asparagine content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000308",
+		"name": "Average commercial root weight",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000109",
+		"name": "Beta-carotene content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000311",
+		"name": "Biomass yield",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000281",
+		"name": "Calcium content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000133",
+		"name": "Color of boiled roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000437",
+		"name": "Color of leave",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000337",
+		"name": "Color of stigma",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000338",
+		"name": "Color of style",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000346",
+		"name": "Consistency of boiled storage root",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000430",
+		"name": "Cyanidin content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000417",
+		"name": "Deep of eyes of roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000064",
+		"name": "Distribution of Secondary Flesh color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000331",
+		"name": "Equality of sepal length",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000130",
+		"name": "Fiber content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000256",
+		"name": "Fiber cooked",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000416",
+		"name": "Flesh Color (anthocyanins)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000415",
+		"name": "Flesh Color (carotenoids)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000046",
+		"name": "Flower color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000329",
+		"name": "Flower size",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000328",
+		"name": "Flowering habit",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000312",
+		"name": "Foliage total yield",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000118",
+		"name": "Fructose content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000019",
+		"name": "General Outline of the Leaf",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000121",
+		"name": "Glucose content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000085",
+		"name": "Harvest index",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000040",
+		"name": "Immature Leaf Color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000052",
+		"name": "Intensity of Predominant Skin color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000103",
+		"name": "Iron content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000345",
+		"name": "Keeping quality of storage roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000025",
+		"name": "Leaf Lobe Number",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000022",
+		"name": "Leaf Lobe Type",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000436",
+		"name": "Leaves per plant",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000412",
+		"name": "Length to Diameter Ratio of roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000285",
+		"name": "Magnesium content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000127",
+		"name": "Maltose content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000307",
+		"name": "Marketable root yield",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000037",
+		"name": "Mature Leaf Color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000031",
+		"name": "Mature Leaf Size",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000438",
+		"name": "Millipede damage",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000435",
+		"name": "Nodes per vine",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000212",
+		"name": "Number of commercial storage roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000215",
+		"name": "Number of non-commercial storage roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000203",
+		"name": "Number of storage root damages",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000270",
+		"name": "Overall appearance of cooked sample",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000266",
+		"name": "Overall taste of cooked sample",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000073",
+		"name": "Oxidation in Storage Roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000432",
+		"name": "Peonidin content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000310",
+		"name": "Percentage of marketable roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000170",
+		"name": "Petiole length",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000043",
+		"name": "Petiole Pigmentation",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000434",
+		"name": "Phenol content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000001",
+		"name": "Plant Type",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000058",
+		"name": "Predominant Flesh color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000049",
+		"name": "Predominant Skin color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000010",
+		"name": "Predominant Vine Color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000100",
+		"name": "Protein content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000365",
+		"name": "Reaction to Aphids",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000392",
+		"name": "Reaction to Bacterial stem and root rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000393",
+		"name": "Reaction to Bacterial wilt",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000362",
+		"name": "Reaction to Beetles",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000380",
+		"name": "Reaction to Black rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000373",
+		"name": "Reaction to Brown ring rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000389",
+		"name": "Reaction to Charcoal rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000384",
+		"name": "Reaction to Diaporthe dry rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000348",
+		"name": "Reaction to drought",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000091",
+		"name": "Reaction to Early Blight: (Alternaria spp)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000360",
+		"name": "Reaction to flea beetles",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000349",
+		"name": "Reaction to flooding",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000388",
+		"name": "Reaction to Foot rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000422",
+		"name": "Reaction to Fusarium oxysporum",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000378",
+		"name": "Reaction to Fusarium root rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000377",
+		"name": "Reaction to Fusarium surface rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000363",
+		"name": "Reaction to Grubworm",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000350",
+		"name": "Reaction to heat",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000354",
+		"name": "Reaction to high soil temperature",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000364",
+		"name": "Reaction to Hornworm",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000383",
+		"name": "Reaction to Java black rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000386",
+		"name": "Reaction to leaf spot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000368",
+		"name": "Reaction to Moth",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000394",
+		"name": "Reaction to Other bacteria",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000390",
+		"name": "Reaction to Other fungi",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000370",
+		"name": "Reaction to Other insects",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000401",
+		"name": "Reaction to Other mycoplasma",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000375",
+		"name": "Reaction to other nematodes",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000399",
+		"name": "Reaction to Other virus",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000391",
+		"name": "Reaction to Pox or soil rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000371",
+		"name": "Reaction to Reniform nematode",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000421",
+		"name": "Reaction to Root Knot Nematode Meloidogyne incognita",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000420",
+		"name": "Reaction to Root Knot Nematode Meloidogyne spp",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000374",
+		"name": "Reaction to Root lesion nematode",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000351",
+		"name": "Reaction to salinity",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000385",
+		"name": "Reaction to Scab",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000379",
+		"name": "Reaction to Sclerotial blight and circular spot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000381",
+		"name": "Reaction to Scurf",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000352",
+		"name": "Reaction to shade",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000382",
+		"name": "Reaction to Soft rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000353",
+		"name": "Reaction to soil",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000372",
+		"name": "Reaction to Sting nematode",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000419",
+		"name": "Reaction to Streptomyces Soil Rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000356",
+		"name": "Reaction to Striped sweet potato weevil",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000395",
+		"name": "Reaction to Sweet potato feathery mottle virus (SPMV)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000359",
+		"name": "Reaction to Sweet potato flea beetles",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000361",
+		"name": "Reaction to Sweet potato leaf beetles",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000396",
+		"name": "Reaction to Sweet potato mild mottle virus (SPMMV)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000367",
+		"name": "Reaction to Sweet potato moth",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000369",
+		"name": "Reaction to Sweet potato stem borer",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000397",
+		"name": "Reaction to Sweet potato vein mottle virus (SPVMV)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000398",
+		"name": "Reaction to Sweet potato virus disease complex (SPVD complex)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000088",
+		"name": "Reaction to sweet potato weevil",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000366",
+		"name": "Reaction to Sweet potato white fly",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000357",
+		"name": "Reaction to Sweet potato wire worms",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000355",
+		"name": "Reaction to West Indian sweet potato weevil",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000387",
+		"name": "Reaction to White rust",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000376",
+		"name": "Reaction to Wilt rot",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000358",
+		"name": "Reaction to Wire worms",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000400",
+		"name": "Reaction to Witches broom",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000424",
+		"name": "Relative Storage Root Yield",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000061",
+		"name": "Secondary Flesh color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000055",
+		"name": "Secondary Skin color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000013",
+		"name": "Secondary Vine Color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000340",
+		"name": "Seed capsule set",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000334",
+		"name": "Sepal apex",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000336",
+		"name": "Sepal color",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000335",
+		"name": "Sepal pubescence",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000333",
+		"name": "Sepal shape",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000028",
+		"name": "Shape of Central Leaf Lobe",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000330",
+		"name": "Shape of limb",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000413",
+		"name": "Skin Color of roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000414",
+		"name": "Skin Texture of roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000440",
+		"name": "Soil insect damage",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000274",
+		"name": "Sprouting ability",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000339",
+		"name": "Stigma exertion",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000426",
+		"name": "Storage Root Appearance",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000185",
+		"name": "Storage root cortex thickness",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000097",
+		"name": "Storage root cracking",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000423",
+		"name": "Storage Root Defects",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000142",
+		"name": "Storage root dry matter content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000199",
+		"name": "Storage root form",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000341",
+		"name": "Storage root formation",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000067",
+		"name": "Storage Root Shape",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000069",
+		"name": "Storage Root Shape (primary)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000441",
+		"name": "Storage Root Shape (secondary)",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000409",
+		"name": "Storage Root Shape Uniformity",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000076",
+		"name": "Storage root size",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000342",
+		"name": "Storage root stalk",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000115",
+		"name": "Storage root starch content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000326",
+		"name": "Storage Root Surface Defects",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000136",
+		"name": "Storage root texture",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000425",
+		"name": "Storage Root Yield relative to check",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000124",
+		"name": "Sucrose content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000298",
+		"name": "Survival index",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000139",
+		"name": "Sweetness of boiled storage root flesh",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000112",
+		"name": "Total carotenoids",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000431",
+		"name": "Total Monomeric Anthocyanin content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000079",
+		"name": "Total number of root",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000234",
+		"name": "Total root weight",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000402",
+		"name": "Total sugar content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000347",
+		"name": "Undesirable color of boiled storage root",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000343",
+		"name": "Variability of storage root shape",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000344",
+		"name": "Variability of storage root size",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000157",
+		"name": "Vine internode diameter",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000153",
+		"name": "Vine internode length",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000016",
+		"name": "Vine Tips Pubescence",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000194",
+		"name": "Vine vigor",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000094",
+		"name": "Virus symptoms",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000218",
+		"name": "Weight of commercial storage roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000221",
+		"name": "Weight of non-commercial storage roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000240",
+		"name": "Weight of storage root",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000224",
+		"name": "Weight of vines",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000309",
+		"name": "Yield of total roots",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_331:0000106",
+		"name": "Zinc content",
+		"group": 5,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000039",
+		"name": "Cotyledon colour",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000084",
+		"name": "Seed weight",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000114",
+		"name": "Plant height",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000144",
+		"name": "Root length",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000147",
+		"name": "Root length density",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000066",
+		"name": "Ground colour of seed testa",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000111",
+		"name": "Pattern of seed testa",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000096",
+		"name": "Number of pods per plant",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000102",
+		"name": "Number of pods per peduncle",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000105",
+		"name": "Number of seeds per pod",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000099",
+		"name": "Number of peduncles per plant",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000027",
+		"name": "Canopy width",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000021",
+		"name": "Branching pattern",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000078",
+		"name": "Height of the lowest pod",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000117",
+		"name": "Plant pubescence",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000138",
+		"name": "Presence of Tendrils",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000186",
+		"name": "Type of tendril",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000087",
+		"name": "Iron (Fe) deficiency",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000015",
+		"name": "Boron deficiency",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000036",
+		"name": "Cooking time",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000042",
+		"name": "Straw protein content",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000093",
+		"name": "Micro nutrient content",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000045",
+		"name": "Days to 50% flowering",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000048",
+		"name": "Days to first flowering",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000195",
+		"name": "Time to flowering",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000051",
+		"name": "Time to first pod formation",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000054",
+		"name": "Time to maturity",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000129",
+		"name": "Pod filling period",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000009",
+		"name": "Biological yield per plant",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000012",
+		"name": "Biological yield per area",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000072",
+		"name": "Harvest Index",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000069",
+		"name": "Growth habit",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000120",
+		"name": "Plant structure",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000090",
+		"name": "Lodging susceptibility",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000033",
+		"name": "Collar rot resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000000",
+		"name": "Anthracnose resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000006",
+		"name": "Ascochyta blight resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000150",
+		"name": "Rust resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000063",
+		"name": "Fusarium wilt resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000177",
+		"name": "Stemphylium blight resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000003",
+		"name": "Aphid resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000024",
+		"name": "Bruchid resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000123",
+		"name": "Pod borer resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000174",
+		"name": "Stem weevil resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000108",
+		"name": "Orobanche resistance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000153",
+		"name": "Salinity tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000030",
+		"name": "Cold tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000057",
+		"name": "Drought tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000075",
+		"name": "Heat tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000081",
+		"name": "Herbicide tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000018",
+		"name": "Boron toxicity tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000189",
+		"name": "Water logging tolerance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000135",
+		"name": "Pod weight",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000126",
+		"name": "Pod dehiscence",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000132",
+		"name": "Pod shedding",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000159",
+		"name": "Seed diameter",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000162",
+		"name": "Grain protein content",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000165",
+		"name": "Seed yield per plant",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000168",
+		"name": "Seed yield per area",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000171",
+		"name": "Chlorophyll content",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000180",
+		"name": "Stomatal conductance",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000141",
+		"name": "Primary branches number",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000156",
+		"name": "Secondary branches number",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000183",
+		"name": "Tertiary branches number",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000060",
+		"name": "Early growth vigour",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_339:0000192",
+		"name": "Winter survival",
+		"group": 6,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000276",
+		"name": "Abscisic Acid Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000277",
+		"name": "Amylopectin Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000278",
+		"name": "Amylose Amylopectin Ratio",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000279",
+		"name": "Amylose Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000280",
+		"name": "Anther Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000281",
+		"name": "Anthocyanin Pigmentation",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000282",
+		"name": "Apical Branching",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000283",
+		"name": "Apical Pubescence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000284",
+		"name": "Ascorbic Acid",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000285",
+		"name": "Ash Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000287",
+		"name": "B crypto activity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000288",
+		"name": "Bemesia tabaci nymphs black",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000289",
+		"name": "Bemesia tabaci nymphs severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000290",
+		"name": "Bemesia tabaci nymphs yellow",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000291",
+		"name": "Beta carotene",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000292",
+		"name": "Beta Carotenoid Retention",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000293",
+		"name": "Branch height",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000294",
+		"name": "Branching Angle",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000295",
+		"name": "Branching habit",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000296",
+		"name": "Branching Levels",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000297",
+		"name": "Carotenoid content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000298",
+		"name": "Caruncle Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000038",
+		"name": "Cassava anthracnose disease incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000032",
+		"name": "Cassava anthracnose disease severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000037",
+		"name": "Cassava bacterial blight incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000031",
+		"name": "Cassava bacterial blight severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000040",
+		"name": "Cassava brown streak disease leaf incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000036",
+		"name": "Cassava brown streak disease leaf severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000089",
+		"name": "Cassava brown streak disease root incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000090",
+		"name": "Cassava brown streak disease root severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000122",
+		"name": "Cassava green mite incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000033",
+		"name": "Cassava green mite severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000339",
+		"name": "Cassava Mealy Bug Incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000340",
+		"name": "Cassava Mealy Bug Severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000039",
+		"name": "Cassava mosaic disease incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000035",
+		"name": "Cassava mosaic disease severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000353",
+		"name": "Central Leaf Shape",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000354",
+		"name": "Cis 9 activity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000355",
+		"name": "Color Of Boiled Tuberous Roots",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000356",
+		"name": "Days to 50% anthesis",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000357",
+		"name": "Days to 50% branching",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000358",
+		"name": "Days to first anthesis",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000359",
+		"name": "Days to first inflorescence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000360",
+		"name": "Disc Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000361",
+		"name": "Ease of Harvest",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000362",
+		"name": "Ease Of Peeling Root Cortex",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000364",
+		"name": "Female flower number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000365",
+		"name": "Female Stamenoids",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000366",
+		"name": "Fibre Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000367",
+		"name": "Flowering",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000369",
+		"name": "Fresh Shoot Weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000370",
+		"name": "Frog Skin Disease",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000371",
+		"name": "Fruit Exocarp Texture",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000372",
+		"name": "Fruit set presence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000373",
+		"name": "Fufu Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000374",
+		"name": "Gari Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000378",
+		"name": "Gari fibre",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000379",
+		"name": "Gari sampled weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000375",
+		"name": "Gari shaft weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000380",
+		"name": "Gari starch",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000381",
+		"name": "Gari taste",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000376",
+		"name": "Gari weight after drying",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000377",
+		"name": "Gari weight after grinding",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000382",
+		"name": "Hairiness",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000386",
+		"name": "Initial Vigor",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000387",
+		"name": "Iron Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000388",
+		"name": "Lafun Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000389",
+		"name": "Leaf color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000390",
+		"name": "Leaf Life span",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000391",
+		"name": "Leaf lobe length",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000392",
+		"name": "Leaf lobe margin",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000393",
+		"name": "Leaf Lobe Position",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000394",
+		"name": "Leaf lobe width",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000395",
+		"name": "Leaf Lobes Number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000396",
+		"name": "Leaf Retention",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000397",
+		"name": "Leaf scar distance",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000398",
+		"name": "Leaf scar height",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000399",
+		"name": "Leaf scar number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000400",
+		"name": "Leaf Scar Prominence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000401",
+		"name": "Leaf Vein Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000402",
+		"name": "Leaf weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000403",
+		"name": "Male flower number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000404",
+		"name": "Male Sterile",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000405",
+		"name": "Marketable root number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000406",
+		"name": "Marketable root weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000407",
+		"name": "Moisture Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000408",
+		"name": "Non marketable root number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000409",
+		"name": "Non marketable root weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000410",
+		"name": "Number of Bemesia tabaci adult",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000411",
+		"name": "Number of Bemesia tabaci nymphs",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000412",
+		"name": "Number of flowering stalks",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000413",
+		"name": "Number of forks",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000414",
+		"name": "Number of fruits",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000415",
+		"name": "Number of fruitset",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000417",
+		"name": "Number of rotten stem",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000419",
+		"name": "Number of stakes",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000420",
+		"name": "Number of terminal branches with inflorescence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000421",
+		"name": "Ovary Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000422",
+		"name": "Peel weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000427",
+		"name": "Petiole Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000428",
+		"name": "Petiole Insertion Angle",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000429",
+		"name": "Petiole length",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000430",
+		"name": "Petiole orientation",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000431",
+		"name": "Plant Architecture",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000432",
+		"name": "Plant Height",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000433",
+		"name": "Plant shape",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000436",
+		"name": "Ploidy",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000437",
+		"name": "Poundability",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000438",
+		"name": "Presence of pollen",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000439",
+		"name": "Proportion of female flower",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000441",
+		"name": "Proportion of plant with inflorescence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000442",
+		"name": "Protein Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000443",
+		"name": "Red Spider Mite Incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000444",
+		"name": "Red Spider Mite Severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000446",
+		"name": "Root constrictions number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000447",
+		"name": "Root Dry Matter Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000448",
+		"name": "Root evaluation",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000450",
+		"name": "Root length",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000451",
+		"name": "Root Neck Length",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000452",
+		"name": "Root Number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000453",
+		"name": "Root Position",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000454",
+		"name": "Root Surface Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000455",
+		"name": "Root Surface Texture",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000456",
+		"name": "Root Yield",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000457",
+		"name": "Rotted Storage Roots",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000458",
+		"name": "Rotten root proportion",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000459",
+		"name": "Seed Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000460",
+		"name": "Seedling number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000462",
+		"name": "Sepal Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000463",
+		"name": "Sooty Mould",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000464",
+		"name": "Spiraling Whitefly Incidence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000465",
+		"name": "Spiraling Whitefly Severity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000466",
+		"name": "Sprout count",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000472",
+		"name": "Sprouting",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000473",
+		"name": "Stalk length",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000474",
+		"name": "Starch Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000475",
+		"name": "Stem Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000476",
+		"name": "Stem cortex color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000477",
+		"name": "Stem epidermis color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000478",
+		"name": "Stem height",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000479",
+		"name": "Stem number",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000480",
+		"name": "Stem weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000481",
+		"name": "Stigma Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000482",
+		"name": "Stipule margin",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000483",
+		"name": "Stipules Length",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000484",
+		"name": "Stock weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000485",
+		"name": "Storage Root Constrictions",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000486",
+		"name": "Storage Root Cortex Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000487",
+		"name": "Storage Root Diameter",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000488",
+		"name": "Storage Root Peduncle",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000489",
+		"name": "Storage Root Periderm Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000490",
+		"name": "Storage Root Pulp Color",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000491",
+		"name": "Storage Root Shape",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000492",
+		"name": "Storage Root Size",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000493",
+		"name": "Storage root weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000494",
+		"name": "Stump weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000495",
+		"name": "Sugar Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000497",
+		"name": "Swelling capacity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000498",
+		"name": "Taste Of Boiled Roots",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000499",
+		"name": "Tip shoot weight",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000500",
+		"name": "Total Carotenoid Retention",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000501",
+		"name": "Trans-9 activity",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000502",
+		"name": "Tuberous root cyanide content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000503",
+		"name": "Typhlodromalus aripo",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000504",
+		"name": "Weight of mashed cassava cake",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000505",
+		"name": "Young Stem Growth Habit",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000506",
+		"name": "Young Stem Pubescence",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_334:0000507",
+		"name": "Zinc Content",
+		"group": 7,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000483",
+		"name": "anther colour",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000150",
+		"name": "anther length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000484",
+		"name": "anthocyanin below apiculus",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000485",
+		"name": "apiculus anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000487",
+		"name": "auricle anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000011",
+		"name": "leaf length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000037",
+		"name": "apiculus color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000486",
+		"name": "apiculus shape",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000029",
+		"name": "auricle color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000036",
+		"name": "awn color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000488",
+		"name": "awn distribution",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000146",
+		"name": "awn length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000156",
+		"name": "awn presence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000144",
+		"name": "awn thickness",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000015",
+		"name": "awning",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000489",
+		"name": "basal leaf sheath anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000023",
+		"name": "basal leaf sheath color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000491",
+		"name": "coleoptile anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000492",
+		"name": "collar anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000028",
+		"name": "collar color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000017",
+		"name": "flag leaf angle",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000138",
+		"name": "flag leaf length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000137",
+		"name": "flag leaf width",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000501",
+		"name": "keel anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000041",
+		"name": "sterile lemma color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000042",
+		"name": "sterile lemma length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000121",
+		"name": "sterile lemma shape",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000038",
+		"name": "stigma color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000093",
+		"name": "stigma exsertion",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000218",
+		"name": "seedling height",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000034",
+		"name": "secondary panicle branching",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000031",
+		"name": "culm angle",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000155",
+		"name": "culm diameter",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000016",
+		"name": "culm internode anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000493",
+		"name": "culm internode color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000494",
+		"name": "culm internode underlying colour",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000030",
+		"name": "culm length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000495",
+		"name": "culm node anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000154",
+		"name": "culm node underlying colour",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000496",
+		"name": "culm number",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000084",
+		"name": "culm strength",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000124",
+		"name": "rhizome and stolon formation",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000020",
+		"name": "grain thickness",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000014",
+		"name": "leaf angle",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000502",
+		"name": "leaf blade anthocyanin",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000006",
+		"name": "leaf blade color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000503",
+		"name": "leaf blade greenness",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000013",
+		"name": "leaf blade pubescence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000100",
+		"name": "grain weight",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000073",
+		"name": "grain yield",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000498",
+		"name": "flowering date",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000088",
+		"name": "Time to heading",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000094",
+		"name": "glume opening",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000005",
+		"name": "grain width",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000497",
+		"name": "endosperm type",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000106",
+		"name": "gel consistency",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000107",
+		"name": "gelatinization temperature",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000105",
+		"name": "grain elongation",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000004",
+		"name": "grain length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000179",
+		"name": "grassy stunt 1 disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000500",
+		"name": "grassy stunt 2 disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000200",
+		"name": "green leafhopper damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000193",
+		"name": "hoja blanca disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000063",
+		"name": "iron toxicity injury",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000180",
+		"name": "kernel smut",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000064",
+		"name": "kneeing ability",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000176",
+		"name": "Leaf blast damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000504",
+		"name": "leaf margin pubescence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000181",
+		"name": "leaf scald damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000085",
+		"name": "leaf senescence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000021",
+		"name": "leaf width",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000201",
+		"name": "leaffolder damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000505",
+		"name": "lemma and palea color ornementation",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000039",
+		"name": "lemma and palea color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000040",
+		"name": "lemma and palea pubescence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000506",
+		"name": "lemma phenol reaction",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000026",
+		"name": "ligule color",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000025",
+		"name": "ligule length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000507",
+		"name": "ligule margin shape",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000132",
+		"name": "ligule pubescence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000027",
+		"name": "ligule shape",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000080",
+		"name": "lodging incidence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000091",
+		"name": "male sterility group",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000082",
+		"name": "maturity",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000182",
+		"name": "narrow brown leaf spot damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000508",
+		"name": "Outcrossing extent",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000035",
+		"name": "panicle axis attitude",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000128",
+		"name": "panicle axis texture",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000509",
+		"name": "panicle basal branch number",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000510",
+		"name": "panicle blast damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000511",
+		"name": "panicle blast severity",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000512",
+		"name": "panicle blast incidence",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000513",
+		"name": "panicle branch arrangement",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000141",
+		"name": "panicle distance to basal branch",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000074",
+		"name": "panicle exsertion",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000033",
+		"name": "panicle length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000009",
+		"name": "panicle number",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000152",
+		"name": "panicle shattering",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000078",
+		"name": "panicle threshability",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000018",
+		"name": "panicle type",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000115",
+		"name": "pericarp colour",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000075",
+		"name": "Phenotypic Acceptability",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000108",
+		"name": "head rice",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000062",
+		"name": "heat injury",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000158",
+		"name": "pollen sterility",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000077",
+		"name": "vigor",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000079",
+		"name": "tillering",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000086",
+		"name": "seed germination",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000090",
+		"name": "spikelet fertility",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000076",
+		"name": "plant height",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000065",
+		"name": "phosphorus deficiency damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000069",
+		"name": "zinc deficiency injury",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000067",
+		"name": "submergence tolerance",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000055",
+		"name": "alkali injury",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000057",
+		"name": "cold tolerance",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000066",
+		"name": "salt injury",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000060",
+		"name": "drought injury",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000058",
+		"name": "drought recovery",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000183",
+		"name": "ragged stunt disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000214",
+		"name": "rat damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000203",
+		"name": "rice bug damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000216",
+		"name": "rice delphacid",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000184",
+		"name": "rice tungro disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000206",
+		"name": "rice whorl maggot damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000499",
+		"name": "grain discoloration",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000211",
+		"name": "whitebacked planthopper damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000515",
+		"name": "yellow dwarf",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000192",
+		"name": "yellow mottle disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000194",
+		"name": "udbatta disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000187",
+		"name": "ufra",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000210",
+		"name": "thrip damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000208",
+		"name": "stem borer damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000061",
+		"name": "stem elongation",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000186",
+		"name": "stem rot",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000197",
+		"name": "case worm damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000173",
+		"name": "bacterial blight damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000174",
+		"name": "bacterial leaf streak damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000195",
+		"name": "bakanae disease",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000213",
+		"name": "bird damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000196",
+		"name": "brown planthopper damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000177",
+		"name": "brown spot damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000189",
+		"name": "sheath blight",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000185",
+		"name": "sheath rot",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000178",
+		"name": "false smut",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000199",
+		"name": "gall midge damage",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000111",
+		"name": "brown rice protein content",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000110",
+		"name": "caryopsis length",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000109",
+		"name": "caryopsis shape",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000117",
+		"name": "caryopsis width",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000104",
+		"name": "chalkiness of endosperm",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000102",
+		"name": "amylose content",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000103",
+		"name": "scent",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000490",
+		"name": "chromosome number",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000159",
+		"name": "spikelet sterility",
+		"group": 8,
+		"value": 0.1
+	},
+	{
+		"id": "CO_320:0000098",
+		"name": "fertility restoration",
+		"group": 8,
+		"value": 0.1
+	}
+]
